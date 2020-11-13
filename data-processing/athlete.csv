@@ -1,0 +1,61 @@
+Athlete,Country,Gold,Silver,Bronze,Total,#domains,domains,Year,Score
+"BJOERNDALEN, Ole Einar",NOR,8,4,1,13,1,['Biathlon'],2006,10.7
+"DAEHLIE, Björn",NOR,8,4,0,12,1,['Cross Country Skiing'],1994,10.4
+"BJOERGEN, Marit",NOR,6,2,1,9,1,['Cross Country Skiing'],2010,7.5
+"PECHSTEIN, Claudia",GER,5,2,2,9,1,['Speed skating'],1998,6.8
+"JERNBERG, Sixten",SWE,4,3,2,9,1,['Cross Country Skiing'],1960,6.4
+"SMETANINA, Raisa",URS,3,5,1,9,1,['Cross Country Skiing'],1980,6.3
+"GROSS, Ricco",GER,4,3,1,8,1,['Biathlon'],1996,6.1
+"SKOBLIKOVA, Lidiya",URS,6,0,0,6,1,['Speed skating'],1964,6.0
+"THUNBERG, Clas",FIN,5,1,1,7,1,['Speed skating'],1924,5.9
+"AAMODT, Kjetil Andre",NOR,4,2,2,8,1,['Alpine Skiing'],1994,5.8
+"FISCHER, Sven",GER,4,2,2,8,1,['Biathlon'],2002,5.8
+"KULAKOVA, Galina",URS,4,2,2,8,1,['Cross Country Skiing'],1972,5.8
+"KANIA, Karin",GDR,3,4,1,8,1,['Speed skating'],1984,5.699999999999999
+"NIEMANN-STIRNEMANN, Gunda",GER,3,4,1,8,1,['Speed skating'],1994,5.699999999999999
+"ALSGAARD, Thomas",NOR,5,1,0,6,1,['Cross Country Skiing'],1998,5.6
+"BALLANGRUD, Ivar",NOR,4,2,1,7,1,['Speed skating'],1936,5.5
+"BELMONDO, Stefania",ITA,2,3,5,10,1,['Cross Country Skiing'],1996,5.3
+"DISL, Uschi",GER,2,4,3,9,1,['Biathlon'],1998,5.3
+"BLAIR, Bonnie",USA,5,0,1,6,1,['Speed skating'],1992,5.3
+"KOSTELIC, Janica",CRO,4,2,0,6,1,['Alpine Skiing'],2002,5.2
+"HAKULINEN, Veikko",FIN,3,3,1,7,1,['Cross Country Skiing'],1956,5.1
+"WILHELM, Kati",GER,3,3,1,7,1,['Biathlon'],2006,5.1
+"HEIDEN, Eric",USA,5,0,0,5,1,['Speed skating'],1980,5.0
+"LAZUTINA, Larissa",RUS,4,1,1,6,1,['Cross Country Skiing'],1998,4.9
+"SVAN, Gunde Anders",SWE,4,1,1,6,1,['Cross Country Skiing'],1984,4.9
+"WANG, Meng",CHN,4,1,1,6,1,['Short Track Speed Skating'],2008,4.9
+"KRAMER, Sven",NED,3,2,2,7,1,['Speed skating'],2010,4.8
+"MÄNTYRANTA, Eero",FIN,3,2,2,7,1,['Cross Country Skiing'],1964,4.8
+"GRISHIN, Yevgeny",URS,4,1,0,5,1,['Speed skating'],1960,4.6
+"HEFFORD, Jayna",CAN,4,1,0,5,1,['Ice Hockey'],2006,4.6
+"KOSS, Johann Olav",NOR,4,1,0,5,1,['Speed skating'],1994,4.6
+"KUSKE, Kevin",GER,4,1,0,5,1,['Bobsleigh'],2006,4.6
+"LANGE, Andre",GER,4,1,0,5,1,['Bobsleigh'],2006,4.6
+"NYKANEN, Matti",FIN,4,1,0,5,1,['Ski Jumping'],1988,4.6
+"SVENDSEN, Emil Hegle",NOR,4,1,0,5,1,['Biathlon'],2010,4.6
+"TIKHONOV, Aleksandr",URS,4,1,0,5,1,['Biathlon'],1972,4.6
+"WICKENHEISER, Hayley",CAN,4,1,0,5,1,['Ice Hockey'],2006,4.6
+"ZIMYATOV, Nikolay",URS,4,1,0,5,1,['Cross Country Skiing'],1980,4.6
+"GOTTWALD, Felix",AUT,3,1,3,7,1,['Nordic Combined'],2006,4.5
+"HANEVOLD, Halvard",NOR,3,2,1,6,1,['Biathlon'],2004,4.5
+"TCHEPALOVA, Julija",RUS,3,2,1,6,1,['Cross Country Skiing'],2002,4.5
+"ULVANG, Vegard",NOR,3,2,1,6,1,['Cross Country Skiing'],1992,4.5
+"OHNO, Apolo Anton",USA,2,2,4,8,1,['Short Track Speed Skating'],2006,4.4
+"EHRIG, Andrea",GDR,1,5,1,7,1,['Speed skating'],1984,4.3
+"CHUN, Lee-Kyung",KOR,4,0,1,5,1,['Short Track Speed Skating'],1998,4.3
+"KIRVESNIEMI, Marja-Liisa",FIN,3,0,4,7,1,['Cross Country Skiing'],1984,4.2
+"GROTTUMSBRAATEN, Johan",NOR,3,1,2,6,2,"['Cross Country Skiing', 'Nordic Combined']",1926,4.2
+"EGOROVA, Ljubov",EUN,3,2,0,5,1,['Cross Country Skiing'],1992,4.2
+"LAJUNEN, Samppa",FIN,3,2,0,5,1,['Nordic Combined'],2002,4.2
+"TOMBA, Alberto",ITA,3,2,0,5,1,['Alpine Skiing'],1992,4.2
+"DI CENTA, Manuela",ITA,2,2,3,7,1,['Cross Country Skiing'],1994,4.1
+"AMMANN, Simon",SUI,4,0,0,4,1,['Ski Jumping'],2006,4.0
+"OUELLETTE, Caroline",CAN,4,0,0,4,1,['Ice Hockey'],2008,4.0
+"WASSBERG, Thomas",SWE,4,0,0,4,1,['Cross Country Skiing'],1984,4.0
+"SABLIKOVA, Martina",CZE,3,1,1,5,1,['Speed skating'],2010,3.9
+"SCHNEIDER, Vreni",SUI,3,1,1,5,1,['Alpine Skiing'],1994,3.9
+"MONTI, Eugenio",ITA,2,2,2,6,1,['Bobsleigh'],1964,3.8
+"GRÖNNINGEN, Harald",NOR,2,3,0,5,1,['Cross Country Skiing'],1964,3.8
+"KALLA, Charlotte",SWE,2,3,0,5,1,['Cross Country Skiing'],2014,3.8
+"LUCK, Frank",GER,2,3,0,5,1,['Biathlon'],1998,3.8
