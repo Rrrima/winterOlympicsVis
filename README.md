@@ -1,6 +1,5 @@
 # winterOlympicsVis
- si649 communicative visualization
----
+   si649 communicative visualization
 ## How to run the app?
 1.  Git clone the repo 
 2.  Activate an virtual environment
